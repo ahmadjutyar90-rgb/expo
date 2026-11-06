@@ -1,5 +1,12 @@
 # Changelog
 
+## 58.0.31
+
+### Patch Changes
+
+- Fix redirects so dynamic segments match the URL and query strings are preserved. ([#52711](https://github.com/expo/expo/pull/52711) by [@itisrmk](https://github.com/itisrmk))
+- Use `inert` instead of `aria-hidden` for unfocused screens on web. ([#52839](https://github.com/expo/expo/pull/52839) by [@hassankhan](https://github.com/hassankhan))
+
 ## 58.0.30
 
 ### Patch Changes
